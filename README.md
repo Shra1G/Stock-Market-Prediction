@@ -1,1 +1,1 @@
-# Stock-MArket-Forecasting
+# Stock Market Forecasting done using stacked LSTM model
